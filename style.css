@@ -1,0 +1,29 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.header h1 {
+   font-family: 'Amatic SC', serif;
+   font-size: 85px;
+}
+
+.header {
+   text-align: center;
+   background-color: #86afc5;
+}
+
+.header img {
+   border-radius: 5px;
+}
+
+.main-img {
+   text-align: center;
+   background-color: #c2d5e0;
+   padding-top: 120px;
+   padding-bottom: 120px;
+}
+
+.main-img img {
+   border-radius: 5px;
+}
